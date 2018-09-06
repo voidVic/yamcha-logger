@@ -1,0 +1,17 @@
+{
+  "name": "yamcha-logger",
+  "version": "1.0.0",
+  "description": "Light logger with limited but basic everyday logging functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "logging",
+    "logs"
+  ],
+  "author": "Ankit Sharma (vicnwz@gmail.com)",
+  "license": "MIT"
+}
