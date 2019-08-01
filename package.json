@@ -14,7 +14,7 @@
   ],
   "repository": {
   "type": "git",
-  "url": "https://github.com/voidVic/yamcha-logger.git"
+  "url": "https://github.com/voidVic/yamcha-logger"
 },
   "author": "Ankit Sharma (vicnwz@gmail.com)",
   "license": "MIT"
